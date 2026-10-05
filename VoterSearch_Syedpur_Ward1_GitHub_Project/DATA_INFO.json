@@ -1,0 +1,20 @@
+{
+  "source_workbook": "01_Saidpur_Ward1_voters(1).xlsx",
+  "records": 4056,
+  "columns": [
+    "Serial",
+    "Name",
+    "Voter No",
+    "Father's Name",
+    "Mother's Name",
+    "Address",
+    "Ward",
+    "Gender"
+  ],
+  "search_fields": [
+    "Name",
+    "Father's Name",
+    "Mother's Name"
+  ],
+  "default_csv": "app/src/main/assets/default_voters.csv"
+}
